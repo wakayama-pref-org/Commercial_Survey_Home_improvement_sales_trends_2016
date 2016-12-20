@@ -1,4 +1,4 @@
-# Commercial_Survey_Home_improvement_sales_trends_<2016>
+# commercial_survey_home_improvement_sales_trends_2016
 　【和歌山県　商業動態統計調査 です。】
 ◆商業動態統計調査とは
 商業を営む事業所及び企業の販売活動などの動向を明らかにすることを目的として、 経済産業省が毎月実施しています。
